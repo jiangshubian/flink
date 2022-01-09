@@ -52,7 +52,7 @@ java -version
 
 ```bash
 $ tar -xzf flink-{{< version >}}-bin-scala{{< scala_version >}}.tgz
-$ cd flink-{{< version >}}-bin-scala{{< scala_version >}}
+$ cd flink-{{< version >}}
 ```
 
 <a name="step-2-start-a-cluster"></a>
